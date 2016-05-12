@@ -1,0 +1,6 @@
+{
+	"name":"zqz",
+	"dependencies": {
+		"node-schedule": "^1.1.0"
+	}
+}
