@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title></title>
+</head>
+
+<body>
+
+页面2
+<a href="app.html">上个页面</a>
+
+<button onclick="forward()">前进(加载histroy列表中的下一个URL)</button>
+<button onclick="now()">当下</button>
+<button onclick="back()">后退(加载histroy列表中的上一个URL)</button>
+<button onclick="go()">想去哪就去哪的go</button>
+
+------------
+
+<button onclick="changehistory()">操作history.pushState()</button>
+<button onclick="changehistory2()">操作history.replaceState</button>
+
+</body>
+<script type="text/javascript" src="lodash.js"></script>
+<script type="text/javascript">
+
+function forward() {
+	//forward()相当于go(1)
+	window.history.forward();
+}
+
+function now() {
+	//forward()相当于go(0)
+	window.history.go(0);
+}
+
+function back() {
+	//forward()相当于go(-1)
+	window.history.back();
+}
+
+function go() {
+	window.history.go(10);
+}
+
+function  changehistory() {
+	var stateObj = { foo: "bar" };
+	window.history.pushState(stateObj, "page 2", "newly.html");
+}
+
+function changehistory2(argument) {
+	var stateObj = { foo: "bar" };
+	window.history.replaceState(stateObj, "page 1", "app.html");
+}
+
+
+
+</script>
+
+</html>
