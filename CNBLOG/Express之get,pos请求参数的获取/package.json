@@ -1,0 +1,14 @@
+{
+  "name": "TEST",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.15.1",
+    "cookie-parser": "~1.4.3",
+    "express": "~4.13.4",
+    "jade": "~1.11.0"
+  }
+}
