@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>socket</title>
+</head>
+
+<body>
+
+
+<button id="sendBtn">发送消息</button>
+
+<button id="leaveBtn">离开</button>
+
+</body>
+<script type="text/javascript" src="./socket.io.js"></script>
+<script type="text/javascript">
+// 创建一个Socket实例
+// var socket = new WebSocket('ws://localhost:9000');
+
+// socket.onopen = function(event) {
+
+//     // 发送一个初始化消息
+//     socket.send('I am zqz_client!');
+
+//     // 监听消息
+//     socket.onmessage = function(event) {
+//         console.log('收到服务端消息: ', event);
+//     };
+
+//     // 监听Socket的关闭
+//     socket.onclose = function(event) {
+//         console.log('socket关闭: ', event);
+//     };
+
+//     // 关闭Socket.... 
+//     //socket.close() 
+// };
+</script>
+<script type="text/javascript">
+    var socket=io.connect('localhost:80'),//与服务器进行连接
+        send=document.getElementById('sendBtn'),
+        leave=document.getElementById('leaveBtn');
+
+    send.onclick=function(){
+        socket.emit('hi', 'hello!');
+    }
+
+    leave.onclick=function(){
+        window.opener=null;window.close() 
+        socket.emit('leave', 'leave');
+    }
+
+    //接收来自服务端的信息事件c_hi
+    socket.on('c_hi',function(msg){
+        alert(msg)
+    })
+
+    // socket.on('c_leave',function(msg){
+    //     alert(msg)
+    // })
+
+</script>
+
+</html>
