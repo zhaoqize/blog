@@ -1,0 +1,25 @@
+{
+    "parserOptions":{
+        "ecmaVersion":6,
+        "sourceType":"module"
+    },
+    "env":{
+        "browser":false,
+        "node":true
+    },
+    "rules":{
+        "semi":"error",
+        "no-alert":"error",
+        "no-dupe-args":"error",
+        "no-dupe-keys":"error",
+        "no-duplicate-case":"error",
+        "no-duplicate-imports":"error",
+        "no-dupe-class-members":"error",
+        "no-eval":"error",
+        "curly":"error",
+        "prefer-spread":"error",
+        "prefer-template":"error",
+        "valid-typeof":"error",
+        "space-before-function-paren":"error"
+    }
+}
