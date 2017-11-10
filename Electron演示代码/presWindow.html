@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>presWindow</title>
+</head>
+<body>
+
+	新窗口
+
+</body>
+<script type="text/javascript">
+	const ipc = require('electron').ipcRenderer;
+
+	var button = document.createElement('button');
+	button.textContent = 'Hide';
+	button.addEventListener('click',function(){
+		ipc.send('hide-pres')
+	})
+	document.body.appendChild(button)
+
+</script>
+</html>

@@ -1,0 +1,11 @@
+{
+  "name": "zqz_demo_one",
+  "version": "1.0.0",
+  "main": "index.js",//主进程
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    
+  }
+}
