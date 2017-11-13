@@ -1,28 +1,96 @@
 # 博客文章
+- Tips
+  - [gulp-prompt入个了门](http://www.cnblogs.com/zqzjs/p/7766267.html)
+  - [document.documentElement.clientHeight 与 document.body.clientHeight](http://www.cnblogs.com/zqzjs/p/5839118.html)
+  - [window.print控制打印样式](http://www.cnblogs.com/zqzjs/p/6807887.html)
+  - [HTML自定义对象与属性探究（谷歌，火狐，IE9浏览器没问题)](http://www.cnblogs.com/zqzjs/p/4992878.html)
+  - [冒泡，setinterval，背景图的div绑定事件，匿名函数问题探究](http://www.cnblogs.com/zqzjs/p/4975862.html)
+  - [我是跨域的JSONP](http://www.cnblogs.com/zqzjs/p/4975829.html)
+  - [<!--[if IE 9]>....<!end if-->](http://www.cnblogs.com/zqzjs/p/4768561.html)
+  - [!+"\v1"  用来“判断浏览器类型”还是用来“IE判断版本”的问题！](http://www.cnblogs.com/zqzjs/p/4787503.html)
+  - [让DIV中文字换行显示](http://www.cnblogs.com/zqzjs/p/4713061.html)
+  - [JSON.parse 与 eval() 对于解析json的问题](http://www.cnblogs.com/zqzjs/p/4693958.html)
+  - [HTML中object,classid--记录十](http://www.cnblogs.com/zqzjs/p/5034345.html)
+  - [判断一个值是否为null或者undefined](http://www.cnblogs.com/zqzjs/p/5060728.html)
+  - [html5中canvas的使用  获取鼠标点击页面上某点的RGB](http://www.cnblogs.com/zqzjs/p/4423246.html)
+  - [z-index--记录七](http://www.cnblogs.com/zqzjs/p/4550151.html)
+  - [Jquery 选择器注意的问题--记录（五）](http://www.cnblogs.com/zqzjs/p/4550127.html)
+  - [字符串转化为JSON格式的数据--(记录四)](http://www.cnblogs.com/zqzjs/p/4540761.html)
+  - [Jquery Uploadify3.21.与2.1版本 使用中存在的问题--记录三](http://www.cnblogs.com/zqzjs/p/4539882.html)
+  - [img.width一直是0的问题--记录（二）](http://www.cnblogs.com/zqzjs/p/4512988.html)
+  - [火狐浏览器中event不起作用解决办法--记录（一）](http://www.cnblogs.com/zqzjs/p/4512967.html)
+  - [搜索框的联想功能实现](http://www.cnblogs.com/zqzjs/p/4507703.html)
+  - [返回顶部的功能 div固定在页面位置不变](http://www.cnblogs.com/zqzjs/p/4621040.html)
+  - [生成任意长度的随机数 JS](http://www.cnblogs.com/zqzjs/p/4603624.html)
+  - [页面width与height使用百分比来划分不起作用解决办法--记录六](http://www.cnblogs.com/zqzjs/p/4550195.html)
+  - [jQuery UI与jQuery easyUI的冲突解决办法](http://www.cnblogs.com/zqzjs/p/4656844.html)
+  - [$(document).ready() 与window.onload的区别](http://www.cnblogs.com/zqzjs/p/4656832.html)
 
-- [基于webpack2.x的vue2.x的多页面站点](http://www.cnblogs.com/zqzjs/p/6834843.html)
-- [History对象](http://www.cnblogs.com/zqzjs/p/6306993.html)
-- [页面图片懒加载原理](http://www.cnblogs.com/zqzjs/p/6290054.html)
-- [gulp-prompt入个了门](http://www.cnblogs.com/zqzjs/p/7766267.html)
-- [Socket.io+Nodejs通讯实例](http://www.cnblogs.com/zqzjs/p/6370072.html)
+- HTML
+  - [Web Components](http://www.cnblogs.com/zqzjs/p/7360664.html)
+  - [History对象](http://www.cnblogs.com/zqzjs/p/6306993.html)
+  - [谷歌YSlow准则](http://www.cnblogs.com/zqzjs/p/6275361.html)
+  - [A标签href详解--记录八](http://www.cnblogs.com/zqzjs/p/4550182.html)
+  - [A标签实现文件下载功能](http://www.cnblogs.com/zqzjs/p/4690731.html)
 
-- [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
+- CSS
+  - [牛逼的css3:动态过渡与图形变换](http://www.cnblogs.com/zqzjs/p/5347691.html)
+  - [CSS的兼容性与BUG处理](http://www.cnblogs.com/zqzjs/p/6379489.html)
+  - [优雅的处理破裂图像](http://www.cnblogs.com/zqzjs/p/6380318.html)
+  - [CSS中易忽略的点](http://www.cnblogs.com/zqzjs/p/6011139.html)
+  - [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
 
-- [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
-- [H5页面中尝试调起APP](http://www.cnblogs.com/zqzjs/p/7504236.html)
-- [Java的隐秘之JavaCC](http://www.cnblogs.com/zqzjs/p/7495958.html)
-- [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
-- [Weex的原生开发](http://www.cnblogs.com/zqzjs/p/7365726.html)
-- [Web Components](http://www.cnblogs.com/zqzjs/p/7360664.html)
-- [第一次安卓运行踩坑](http://www.cnblogs.com/zqzjs/p/7258482.html)
+- JavaScript
+  - [实例操作JSONP原理](http://www.cnblogs.com/zqzjs/p/5898246.html)
+  - [前端开发中SEO的十二条总结](http://www.cnblogs.com/zqzjs/p/6007840.html)
+  - [理解捕获,目标,冒泡三个阶段](http://www.cnblogs.com/zqzjs/p/5916591.html)
+  - [事件的三种绑定方式](http://www.cnblogs.com/zqzjs/p/5903337.html)
+  - [Video.js入门](http://www.cnblogs.com/zqzjs/p/5864472.html)
+  - [javaScript的原型继承与多态性](http://www.cnblogs.com/zqzjs/p/5855634.html)
+  - [javaScript的变量](http://www.cnblogs.com/zqzjs/p/5852886.html)
+  - [开发中的[绝对路径]与[相对路径]](http://www.cnblogs.com/zqzjs/p/4787146.html)
+  - [jQuery全局Ajax事件处理器](http://www.cnblogs.com/zqzjs/p/4787123.html)
+  - [JavaScript中函数函数的定义与变量的声明<基础知识一>](http://www.cnblogs.com/zqzjs/p/4768810.html)
+  - [JS中的数学计算<之简单实例讲解>](http://www.cnblogs.com/zqzjs/p/4713139.html)
+  - [字符串 与 数组 的互相转换](http://www.cnblogs.com/zqzjs/p/4693849.html)
+  - [页面图片懒加载原理](http://www.cnblogs.com/zqzjs/p/6290054.html)
+  - [for循环与for in,$('').each 与$.each的区别](http://www.cnblogs.com/zqzjs/p/5060702.html)
+  - [关于for循环中，定义的i的作用域的问题](http://www.cnblogs.com/zqzjs/p/5060707.html)
+  - [BOM，DOM，ECMAScripts三者的关系](http://www.cnblogs.com/zqzjs/p/5060764.html)
+  - [JavaScript中的apply,call与this的纠缠(http://www.cnblogs.com/zqzjs/p/5017918.html)
+  - [百度地图API的使用](http://www.cnblogs.com/zqzjs/p/5293698.html)
+  - [JavaScript的闭包](http://www.cnblogs.com/zqzjs/p/5090277.html)
+  - [JavaScript的同步与异步](http://www.cnblogs.com/zqzjs/p/5090249.html)
+  - [JavaScript具有自动垃圾回收机制](http://www.cnblogs.com/zqzjs/p/5064863.html)
+  - [Javascript的“上下文”(context)](http://www.cnblogs.com/zqzjs/p/5064807.html)
+  - [JS中 call() 与apply 方法](http://www.cnblogs.com/zqzjs/p/4417476.html)
+  - [Dom addEventlistener与id 绑定事件的区别（续）](http://www.cnblogs.com/zqzjs/p/4458291.html)
+  - [jQuery之常用且重要方法梳理（siblings,nextAll,end,wrap,apply,call,each）-（二）](http://www.cnblogs.com/zqzjs/p/4656793.html)
+  - [$.extend({},defaults, options) --（初体验三）](http://www.cnblogs.com/zqzjs/p/4640804.html)
+  - [jquery.fn.extend与jquery.extend--（初体验二）](http://www.cnblogs.com/zqzjs/p/4640790.html)
+  - [jQuery之常用且重要方法梳理（target,arguments,slice,substring,data,trigger,Attr）-（一）](http://www.cnblogs.com/zqzjs/p/4640763.html)
+  - [seajs的使用](http://www.cnblogs.com/zqzjs/p/5299450.html)
+  - [$.type 怎么精确判断对象类型的 --（源码学习2](http://www.cnblogs.com/zqzjs/p/5557204.html)
+  - [$.extend()的实现源码 --（源码学习1）](http://www.cnblogs.com/zqzjs/p/5557091.html)
+  - [JavaScript的继承实现方式](http://www.cnblogs.com/zqzjs/p/5505983.html)
+  - [console的高级使用](http://www.cnblogs.com/zqzjs/p/5502859.html)
+  - [页面中多个script块之间的关系](http://www.cnblogs.com/zqzjs/p/5497955.html)
+  - [数组与对象的深浅复制](http://www.cnblogs.com/zqzjs/p/5410138.html)
+  - [jQuery 插件-（初体验一）](http://www.cnblogs.com/zqzjs/p/4638375.html)
+  - [cookies如何成为全局变量以及设置，删除，获取](http://www.cnblogs.com/zqzjs/p/4561818.html)
 
-- [window.print控制打印样式](http://www.cnblogs.com/zqzjs/p/6807887.html)
+- Web安全
+  - [Web安全之XSS(Cross Site Scripting)深入理解](http://www.cnblogs.com/zqzjs/p/6194974.html)
+  - [事件的截获](http://www.cnblogs.com/zqzjs/p/5916978.html)
+  - [页面嵌入dom与被嵌入iframe的攻防](http://www.cnblogs.com/zqzjs/p/5908456.html)
 
 - Hybird
+  - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
+  - [H5页面中尝试调起APP](http://www.cnblogs.com/zqzjs/p/7504236.html)
+  - [Weex的原生开发](http://www.cnblogs.com/zqzjs/p/7365726.html)
+  - [第一次安卓运行踩坑](http://www.cnblogs.com/zqzjs/p/7258482.html)
+  - [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
 
-- Git
-  - [Git配合Tag的代码回滚](http://www.cnblogs.com/zqzjs/p/6812214.html)
-  - [大话git中的撤销操作](http://www.cnblogs.com/zqzjs/p/7809471.html)
 
 - Vue
   - [Vue2.x中的父子组件相互通信](http://www.cnblogs.com/zqzjs/p/6789232.html)
@@ -30,6 +98,7 @@
   - [vue-router2.x使用入门](http://www.cnblogs.com/zqzjs/p/6789274.html)
   - [你真的知道组件中的v-model吗？](http://www.cnblogs.com/zqzjs/p/6957310.html)
   - [Vuex给我们的.vue文件结构带来了这些变化](http://www.cnblogs.com/zqzjs/p/6561833.html)
+  - [基于webpack2.x的vue2.x的多页面站点](http://www.cnblogs.com/zqzjs/p/6834843.html)
 
 - Express
   - [Express之托管静态文件](http://www.cnblogs.com/zqzjs/p/6219508.html)
@@ -56,6 +125,8 @@
   - [Node+fs+定时器(node-schedule)+MySql](http://www.cnblogs.com/zqzjs/p/5491349.html)
   - [NodeJs+http+fs+request+cheerio 采集,保存数据,并在网页上展示(构建web服务器)](http://www.cnblogs.com/zqzjs/p/5487381.html)
   - [NodeJs+Request+Cheerio 采集数据](http://www.cnblogs.com/zqzjs/p/5487348.html)
+  - [Socket.io+Nodejs通讯实例](http://www.cnblogs.com/zqzjs/p/6370072.html)
+  - [图片上传之FileAPI与NodeJs](http://www.cnblogs.com/zqzjs/p/6252772.html)
 
 - Handlebars
   - [Handlebars模板引擎之高阶](http://www.cnblogs.com/zqzjs/p/6233479.html)
@@ -63,21 +134,11 @@
   - [Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233153.html)
 
 
-- [谷歌YSlow准则](http://www.cnblogs.com/zqzjs/p/6275361.html)
-- [优雅的处理破裂图像](http://www.cnblogs.com/zqzjs/p/6380318.html)
-- [CSS的兼容性与BUG处理](http://www.cnblogs.com/zqzjs/p/6379489.html)
 
-- CentOS
-  - [CentOS下使用NVM](http://www.cnblogs.com/zqzjs/p/6214979.html)
-  - [CentOS安装SVN](http://www.cnblogs.com/zqzjs/p/6215329.html)
-
-- [图片上传之FileAPI与NodeJs](http://www.cnblogs.com/zqzjs/p/6252772.html)
 - [Git的基本操作](http://www.cnblogs.com/zqzjs/p/6307252.html)
 - [JavaScript原生的节点操作](http://www.cnblogs.com/zqzjs/p/6290762.html)
 - [NodeJs之调试](http://www.cnblogs.com/zqzjs/p/6155786.html)
 - [document.referrer之隐藏来源](http://www.cnblogs.com/zqzjs/p/6244908.html)
-
-- [Mocha的单元测试实战](http://www.cnblogs.com/zqzjs/p/6255849.html)
 
 - Fis3
   - [Fis3前端工程化之项目实战](http://www.cnblogs.com/zqzjs/p/6245607.html)
@@ -85,39 +146,6 @@
   - [Fis3的前端工程化之路[三大特性篇之资源定位]](http://www.cnblogs.com/zqzjs/p/6245164.html)
   - [Fis3的前端工程化之路[三大特性篇之内容嵌入]](http://www.cnblogs.com/zqzjs/p/6099857.html)
   - [Fis3的前端模块化之路[基础篇]](http://www.cnblogs.com/zqzjs/p/6099566.html)
-
-- [Ubuntu下使用nvm](http://www.cnblogs.com/zqzjs/p/6240565.html)
-
-
-- [Cmder--Windows下命令行利器](http://www.cnblogs.com/zqzjs/p/6188605.html)
-- [Web安全之XSS(Cross Site Scripting)深入理解](http://www.cnblogs.com/zqzjs/p/6194974.html)
-
-- [Sublime Text3安装JsHint](http://www.cnblogs.com/zqzjs/p/6146906.html)
-- [带你开始进入NPM的世界之NPM包的开发](http://www.cnblogs.com/zqzjs/p/6138586.html)
-- [Travis CI用来持续集成你的项目](http://www.cnblogs.com/zqzjs/p/6119750.html)
-
-
-
-
-- [Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
-- [CSS中易忽略的点](http://www.cnblogs.com/zqzjs/p/6011139.html)
-- [前端开发中SEO的十二条总结](http://www.cnblogs.com/zqzjs/p/6007840.html)
-- [理解捕获,目标,冒泡三个阶段](http://www.cnblogs.com/zqzjs/p/5916591.html)
-
-- [事件的截获](http://www.cnblogs.com/zqzjs/p/5916978.html)
-- [页面嵌入dom与被嵌入iframe的攻防](http://www.cnblogs.com/zqzjs/p/5908456.html)
-- [事件的三种绑定方式](http://www.cnblogs.com/zqzjs/p/5903337.html)
-- [实例操作JSONP原理](http://www.cnblogs.com/zqzjs/p/5898246.html)
-- [Video.js入门](http://www.cnblogs.com/zqzjs/p/5864472.html)
-- [javaScript的原型继承与多态性](http://www.cnblogs.com/zqzjs/p/5855634.html)
-- [javaScript的变量](http://www.cnblogs.com/zqzjs/p/5852886.html)
-- [document.documentElement.clientHeight 与 document.body.clientHeight](http://www.cnblogs.com/zqzjs/p/5839118.html)
-
-- [nginx+php的使用](http://www.cnblogs.com/zqzjs/p/5785462.html)
-
-
-- [nginx的使用](http://www.cnblogs.com/zqzjs/p/5768944.html)
-- [Sublime的使用](http://www.cnblogs.com/zqzjs/p/5767860.html)
 
 - React
   - [React的使用与JSX的转换](http://www.cnblogs.com/zqzjs/p/5551114.html)
@@ -128,53 +156,21 @@
   - [Electron使用与学习--(基本使用与菜单操作)](http://www.cnblogs.com/zqzjs/p/5544047.html)
   - [Node-Webkit打包](http://www.cnblogs.com/zqzjs/p/5513430.html)
 
-- [$.type 怎么精确判断对象类型的 --（源码学习2](http://www.cnblogs.com/zqzjs/p/5557204.html)
-- [$.extend()的实现源码 --（源码学习1）](http://www.cnblogs.com/zqzjs/p/5557091.html)
-
-
-- [JavaScript的继承实现方式](http://www.cnblogs.com/zqzjs/p/5505983.html)
-- [console的高级使用](http://www.cnblogs.com/zqzjs/p/5502859.html)
-- [页面中多个script块之间的关系](http://www.cnblogs.com/zqzjs/p/5497955.html)
-
-- [数组与对象的深浅复制](http://www.cnblogs.com/zqzjs/p/5410138.html)
-- [Git(进击学习:远程仓库操作)-V3.0](http://www.cnblogs.com/zqzjs/p/5349578.html)
-- [牛逼的css3:动态过渡与图形变换](http://www.cnblogs.com/zqzjs/p/5347691.html)
-- [Git(远程仓库:git@oschina)-V2.0](http://www.cnblogs.com/zqzjs/p/5340943.html)
-
 - Grunt
   - [Grunt(页面静态引入的文件地址的改变探究)-V2.0](http://www.cnblogs.com/zqzjs/p/5331098.html)
   - [Grunt基本使用-V1.0](http://www.cnblogs.com/zqzjs/p/5323623.html)
 
-- [seajs的使用](http://www.cnblogs.com/zqzjs/p/5299450.html)
-- [git推送文件至github缺少README文件](http://www.cnblogs.com/zqzjs/p/5296399.html)
-- [百度地图API的使用](http://www.cnblogs.com/zqzjs/p/5293698.html)
-- [CSS 定位之绝对与相对](http://www.cnblogs.com/zqzjs/p/5094899.html)
-- [JavaScript的闭包](http://www.cnblogs.com/zqzjs/p/5090277.html)
-- [JavaScript的同步与异步](http://www.cnblogs.com/zqzjs/p/5090249.html)
-- [JavaScript具有自动垃圾回收机制](http://www.cnblogs.com/zqzjs/p/5064863.html)
-- [Javascript的“上下文”(context)](http://www.cnblogs.com/zqzjs/p/5064807.html)
-
-- [BOM，DOM，ECMAScripts三者的关系](http://www.cnblogs.com/zqzjs/p/5060764.html)
-- [判断一个值是否为null或者undefined](http://www.cnblogs.com/zqzjs/p/5060728.html)
-- [关于for循环中，定义的i的作用域的问题](http://www.cnblogs.com/zqzjs/p/5060707.html)
-- [for循环与for in,$('').each 与$.each的区别](http://www.cnblogs.com/zqzjs/p/5060702.html)
-
-- [HTML中object,classid--记录十](http://www.cnblogs.com/zqzjs/p/5034345.html)
-
 - CSS权威指南
-  - [css权威指南-基本视觉格式化（水平与垂直](http://www.cnblogs.com/zqzjs/p/5046582.html)
-  - [CSS权威指南之css声明，伪类，文本处理--(简要笔记一)](http://www.cnblogs.com/zqzjs/p/5030885.html)
+  - [CSS权威指南之基本视觉格式化（水平与垂直](http://www.cnblogs.com/zqzjs/p/5046582.html)
+  - [CSS权威指南之css声明，伪类，文本处理](http://www.cnblogs.com/zqzjs/p/5030885.html)
+  - [CSS权威指南之定位之绝对与相对](http://www.cnblogs.com/zqzjs/p/5094899.html)
 
-- [JavaScript中的apply,call与this的纠缠(http://www.cnblogs.com/zqzjs/p/5017918.html)
-- [HTTP权威指南-基础知识](http://www.cnblogs.com/zqzjs/p/5011325.html)
+- HTTP权威指南
+  - [HTTP权威指南-基础知识](http://www.cnblogs.com/zqzjs/p/5011325.html)
 
 - JavaScript高级程序设计系列
-- [JavaScript高级程序设计--对象，数组（栈方法，队列方法，重排序方法，迭代方法](http://www.cnblogs.com/zqzjs/p/5008628.html)
-
-- [HTML自定义对象与属性探究（谷歌，火狐，IE9浏览器没问题)](http://www.cnblogs.com/zqzjs/p/4992878.html)
-- [冒泡，setinterval，背景图的div绑定事件，匿名函数问题探究](http://www.cnblogs.com/zqzjs/p/4975862.html)
-- [JavaScript高级程序设计--表单脚本](http://www.cnblogs.com/zqzjs/p/4975841.html)
-- [我是跨域的JSONP](http://www.cnblogs.com/zqzjs/p/4975829.html)
+  - [JavaScript高级程序设计--对象，数组（栈方法，队列方法，重排序方法，迭代方法](http://www.cnblogs.com/zqzjs/p/5008628.html)
+  - [JavaScript高级程序设计--表单脚本](http://www.cnblogs.com/zqzjs/p/4975841.html)
 
 - 高性能JavaScript
   - [高性能JavaScript--数据存储(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4915678.html)
@@ -213,11 +209,43 @@
   - [JavaScript权威设计--JavaScript词法结构(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4792572.html)
   - [JavaScript权威设计--JavaScript语言核心(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4792555.html)
 
-
-
 - HTML5权威指南
   - [HTML5权威指南--Web Storage,本地数据库,本地缓存API,Web Sockets API,Geolocation API(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4855922.html)
   - [HTML5权威指南--标签新变化,文件API,拖放API(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4855874.html)
+
+- JavaScript语言精粹
+  - [JavaScript语言精粹之replace()与正则](http://www.cnblogs.com/zqzjs/p/4457017.html)
+  - [JavaScript语言精粹之Function,类，this，对象](http://www.cnblogs.com/zqzjs/p/4442662.html)
+  - [JavaScript语言精粹之对象](http://www.cnblogs.com/zqzjs/p/4418174.html)
+  - [JavaScript语言精粹之执行环境及作用域，this](http://www.cnblogs.com/zqzjs/p/5060917.html)
+
+- Git
+  - [Git配合Tag的代码回滚](http://www.cnblogs.com/zqzjs/p/6812214.html)
+  - [大话git中的撤销操作](http://www.cnblogs.com/zqzjs/p/7809471.html)
+  - [Git(进击学习:远程仓库操作)-V3.0](http://www.cnblogs.com/zqzjs/p/5349578.html)
+  - [Git(远程仓库:git@oschina)-V2.0](http://www.cnblogs.com/zqzjs/p/5340943.html)
+  - [git推送文件至github缺少README文件](http://www.cnblogs.com/zqzjs/p/5296399.html)
+
+- 工具
+  - [FTP的搭建与虚拟目录作用<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4732030.html)
+  - [数据库知识储备-（一）](http://www.cnblogs.com/zqzjs/p/4639435.html)
+  - [Cmder--Windows下命令行利器](http://www.cnblogs.com/zqzjs/p/6188605.html)
+  - [Sublime Text3安装JsHint](http://www.cnblogs.com/zqzjs/p/6146906.html)
+  - [带你开始进入NPM的世界之NPM包的开发](http://www.cnblogs.com/zqzjs/p/6138586.html)
+  - [IE开发人员工具之实用功能讲解](http://www.cnblogs.com/zqzjs/p/4684549.html)
+  - [Sublime的使用](http://www.cnblogs.com/zqzjs/p/5767860.html)
+  - [nginx+php的使用](http://www.cnblogs.com/zqzjs/p/5785462.html)
+  - [nginx的使用](http://www.cnblogs.com/zqzjs/p/5768944.html)
+  - [Mocha的单元测试实战](http://www.cnblogs.com/zqzjs/p/6255849.html)
+  - [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
+
+- 其他
+  - [CentOS下使用NVM](http://www.cnblogs.com/zqzjs/p/6214979.html)
+  - [CentOS安装SVN](http://www.cnblogs.com/zqzjs/p/6215329.html)
+  - [Ubuntu下使用nvm](http://www.cnblogs.com/zqzjs/p/6240565.html)
+  - [Java的隐秘之JavaCC](http://www.cnblogs.com/zqzjs/p/7495958.html)
+  - [Travis CI用来持续集成你的项目](http://www.cnblogs.com/zqzjs/p/6119750.html)
+  - [Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
 
 - .Net
   - [VS2010编写WebService与在IIS的发布<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4705994.html)
@@ -228,56 +256,6 @@
   - [C#中的Session](http://www.cnblogs.com/zqzjs/p/4507749.html)
   - [表值函数与JS中split()的联系](http://www.cnblogs.com/zqzjs/p/4552883.html)
   - ["Chinese_PRC_CI_AS" 和 "Chinese_PRC_90_CI_AI" 之间的排序规则冲突问题](http://www.cnblogs.com/zqzjs/p/4690438.html)
-
-- [!+"\v1"  用来“判断浏览器类型”还是用来“IE判断版本”的问题！](http://www.cnblogs.com/zqzjs/p/4787503.html)
-- [开发中的[绝对路径]与[相对路径]](http://www.cnblogs.com/zqzjs/p/4787146.html)
-- [jQuery全局Ajax事件处理器](http://www.cnblogs.com/zqzjs/p/4787123.html)
-- [JavaScript中函数函数的定义与变量的声明<基础知识一>](http://www.cnblogs.com/zqzjs/p/4768810.html)
-
-- [<!--[if IE 9]>....<!end if-->](http://www.cnblogs.com/zqzjs/p/4768561.html)
-- [FTP的搭建与虚拟目录作用<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4732030.html)
-
-- [JS中的数学计算<之简单实例讲解>](http://www.cnblogs.com/zqzjs/p/4713139.html)
-- [让DIV中文字换行显示](http://www.cnblogs.com/zqzjs/p/4713061.html)
-
-- [JSON.parse 与 eval() 对于解析json的问题](http://www.cnblogs.com/zqzjs/p/4693958.html)
-- [字符串 与 数组 的互相转换](http://www.cnblogs.com/zqzjs/p/4693849.html)
-- [A标签实现文件下载功能](http://www.cnblogs.com/zqzjs/p/4690731.html)
-
-- [IE开发人员工具之实用功能讲解](http://www.cnblogs.com/zqzjs/p/4684549.html)
-- [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
-- [jQuery UI与jQuery easyUI的冲突解决办法](http://www.cnblogs.com/zqzjs/p/4656844.html)
-- [$(document).ready() 与window.onload的区别](http://www.cnblogs.com/zqzjs/p/4656832.html)
-- [Log4Net生成出现未引用错误解决方法](http://www.cnblogs.com/zqzjs/p/4656822.html)
-- [jQuery之常用且重要方法梳理（siblings,nextAll,end,wrap,apply,call,each）-（二）](http://www.cnblogs.com/zqzjs/p/4656793.html)
-- [$.extend({},defaults, options) --（初体验三）](http://www.cnblogs.com/zqzjs/p/4640804.html)
-- [jquery.fn.extend与jquery.extend--（初体验二）](http://www.cnblogs.com/zqzjs/p/4640790.html)
-- [jQuery之常用且重要方法梳理（target,arguments,slice,substring,data,trigger,Attr）-（一）](http://www.cnblogs.com/zqzjs/p/4640763.html)
-- [数据库知识储备-（一）](http://www.cnblogs.com/zqzjs/p/4639435.html)
-- [jQuery 插件-（初体验一）](http://www.cnblogs.com/zqzjs/p/4638375.html)
-- [返回顶部的功能 div固定在页面位置不变](http://www.cnblogs.com/zqzjs/p/4621040.html)
-- [生成任意长度的随机数 JS](http://www.cnblogs.com/zqzjs/p/4603624.html)
-- [cookies如何成为全局变量以及设置，删除，获取](http://www.cnblogs.com/zqzjs/p/4561818.html)
-- [http://www.cnblogs.com/zqzjs/p/4561790.html](http://www.cnblogs.com/zqzjs/p/4561790.html)
-
-- [页面width与height使用百分比来划分不起作用解决办法--记录六](http://www.cnblogs.com/zqzjs/p/4550195.html)
-- [A标签href详解--记录八](http://www.cnblogs.com/zqzjs/p/4550182.html)
-- [z-index--记录七](http://www.cnblogs.com/zqzjs/p/4550151.html)
-- [Jquery 选择器注意的问题--记录（五）](http://www.cnblogs.com/zqzjs/p/4550127.html)
-- [字符串转化为JSON格式的数据--(记录四)](http://www.cnblogs.com/zqzjs/p/4540761.html)
-- [Jquery Uploadify3.21.与2.1版本 使用中存在的问题--记录三](http://www.cnblogs.com/zqzjs/p/4539882.html)
-- [img.width一直是0的问题--记录（二）](http://www.cnblogs.com/zqzjs/p/4512988.html)
-- [火狐浏览器中event不起作用解决办法--记录（一）](http://www.cnblogs.com/zqzjs/p/4512967.html)
-
-- [搜索框的联想功能实现](http://www.cnblogs.com/zqzjs/p/4507703.html)
-- [Dom addEventlistener与id 绑定事件的区别（续）](http://www.cnblogs.com/zqzjs/p/4458291.html)
-
-- JavaScript语言精粹
-  - [JavaScript语言精粹之replace()与正则](http://www.cnblogs.com/zqzjs/p/4457017.html)
-  - [JavaScript语言精粹之Function,类，this，对象](http://www.cnblogs.com/zqzjs/p/4442662.html)
-  - [JavaScript语言精粹之对象](http://www.cnblogs.com/zqzjs/p/4418174.html)
-  - [JavaScript语言精粹之执行环境及作用域，this](http://www.cnblogs.com/zqzjs/p/5060917.html)
-
-- [html5中canvas的使用  获取鼠标点击页面上某点的RGB](http://www.cnblogs.com/zqzjs/p/4423246.html)
-- [JS中 call() 与apply 方法](http://www.cnblogs.com/zqzjs/p/4417476.html)
+  - [.net中 页面包含子页面 类似include的功能--（记录九）](http://www.cnblogs.com/zqzjs/p/4561790.html)
+  - [Log4Net生成出现未引用错误解决方法](http://www.cnblogs.com/zqzjs/p/4656822.html)
 
