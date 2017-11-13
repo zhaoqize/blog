@@ -6,7 +6,7 @@
   - [HTML自定义对象与属性探究（谷歌，火狐，IE9浏览器没问题)](http://www.cnblogs.com/zqzjs/p/4992878.html)
   - [冒泡，setinterval，背景图的div绑定事件，匿名函数问题探究](http://www.cnblogs.com/zqzjs/p/4975862.html)
   - [我是跨域的JSONP](http://www.cnblogs.com/zqzjs/p/4975829.html)
-  - [<!--[if IE 9]>....<!end if-->](http://www.cnblogs.com/zqzjs/p/4768561.html)
+  - [针对IE不通版本的JS处理](http://www.cnblogs.com/zqzjs/p/4768561.html)
   - [!+"\v1"  用来“判断浏览器类型”还是用来“IE判断版本”的问题！](http://www.cnblogs.com/zqzjs/p/4787503.html)
   - [让DIV中文字换行显示](http://www.cnblogs.com/zqzjs/p/4713061.html)
   - [JSON.parse 与 eval() 对于解析json的问题](http://www.cnblogs.com/zqzjs/p/4693958.html)
@@ -57,7 +57,7 @@
   - [for循环与for in,$('').each 与$.each的区别](http://www.cnblogs.com/zqzjs/p/5060702.html)
   - [关于for循环中，定义的i的作用域的问题](http://www.cnblogs.com/zqzjs/p/5060707.html)
   - [BOM，DOM，ECMAScripts三者的关系](http://www.cnblogs.com/zqzjs/p/5060764.html)
-  - [JavaScript中的apply,call与this的纠缠(http://www.cnblogs.com/zqzjs/p/5017918.html)
+  - [JavaScript中的apply,call与this的纠缠](http://www.cnblogs.com/zqzjs/p/5017918.html)
   - [百度地图API的使用](http://www.cnblogs.com/zqzjs/p/5293698.html)
   - [JavaScript的闭包](http://www.cnblogs.com/zqzjs/p/5090277.html)
   - [JavaScript的同步与异步](http://www.cnblogs.com/zqzjs/p/5090249.html)
@@ -78,11 +78,14 @@
   - [数组与对象的深浅复制](http://www.cnblogs.com/zqzjs/p/5410138.html)
   - [jQuery 插件-（初体验一）](http://www.cnblogs.com/zqzjs/p/4638375.html)
   - [cookies如何成为全局变量以及设置，删除，获取](http://www.cnblogs.com/zqzjs/p/4561818.html)
+  - [Web中的XHRHttpRequest](http://www.cnblogs.com/zqzjs/p/4912623.html)
+  - [JavaScript原生的节点操作](http://www.cnblogs.com/zqzjs/p/6290762.html)
 
 - Web安全
   - [Web安全之XSS(Cross Site Scripting)深入理解](http://www.cnblogs.com/zqzjs/p/6194974.html)
   - [事件的截获](http://www.cnblogs.com/zqzjs/p/5916978.html)
   - [页面嵌入dom与被嵌入iframe的攻防](http://www.cnblogs.com/zqzjs/p/5908456.html)
+  - [document.referrer之隐藏来源](http://www.cnblogs.com/zqzjs/p/6244908.html)
 
 - Hybird
   - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
@@ -127,18 +130,12 @@
   - [NodeJs+Request+Cheerio 采集数据](http://www.cnblogs.com/zqzjs/p/5487348.html)
   - [Socket.io+Nodejs通讯实例](http://www.cnblogs.com/zqzjs/p/6370072.html)
   - [图片上传之FileAPI与NodeJs](http://www.cnblogs.com/zqzjs/p/6252772.html)
+  - [NodeJs之调试](http://www.cnblogs.com/zqzjs/p/6155786.html)
 
 - Handlebars
   - [Handlebars模板引擎之高阶](http://www.cnblogs.com/zqzjs/p/6233479.html)
   - [Handlebars模板引擎之进阶](http://www.cnblogs.com/zqzjs/p/6233444.html)
   - [Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233153.html)
-
-
-
-- [Git的基本操作](http://www.cnblogs.com/zqzjs/p/6307252.html)
-- [JavaScript原生的节点操作](http://www.cnblogs.com/zqzjs/p/6290762.html)
-- [NodeJs之调试](http://www.cnblogs.com/zqzjs/p/6155786.html)
-- [document.referrer之隐藏来源](http://www.cnblogs.com/zqzjs/p/6244908.html)
 
 - Fis3
   - [Fis3前端工程化之项目实战](http://www.cnblogs.com/zqzjs/p/6245607.html)
@@ -184,8 +181,6 @@
   - [锋利的jQuery--Ajax(读书笔记四)](http://www.cnblogs.com/zqzjs/p/4943601.html)
   - [锋利的jQuery--编写jQuery插件(读书笔记五)[完结篇]](http://www.cnblogs.com/zqzjs/p/4943617.html)
 
-- [Web中的XHRHttpRequest](http://www.cnblogs.com/zqzjs/p/4912623.html)
-
 - JavaScript权威设计
   - [JavaScript权威设计--jQuery,Ajax.animate,SVG(简要学习笔记二十)[完结篇]](http://www.cnblogs.com/zqzjs/p/4896114.html)
   - [JavaScript权威设计--跨域,XMLHttpRequest(简要学习笔记十九)](http://www.cnblogs.com/zqzjs/p/4883955.html)
@@ -225,6 +220,7 @@
   - [Git(进击学习:远程仓库操作)-V3.0](http://www.cnblogs.com/zqzjs/p/5349578.html)
   - [Git(远程仓库:git@oschina)-V2.0](http://www.cnblogs.com/zqzjs/p/5340943.html)
   - [git推送文件至github缺少README文件](http://www.cnblogs.com/zqzjs/p/5296399.html)
+  - [Git的基本操作](http://www.cnblogs.com/zqzjs/p/6307252.html)
 
 - 工具
   - [FTP的搭建与虚拟目录作用<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4732030.html)
