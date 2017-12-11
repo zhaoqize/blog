@@ -71,6 +71,7 @@
   - [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
 
 ## JavaScript
+  - [Promise原理与实现探究的一种思路](http://www.cnblogs.com/zqzjs/p/8017497.html)
   - [实例操作JSONP原理](http://www.cnblogs.com/zqzjs/p/5898246.html)
   - [前端开发中SEO的十二条总结](http://www.cnblogs.com/zqzjs/p/6007840.html)
   - [理解捕获,目标,冒泡三个阶段](http://www.cnblogs.com/zqzjs/p/5916591.html)
