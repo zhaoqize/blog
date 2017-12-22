@@ -132,6 +132,7 @@
   - [vue-router2.x使用入门](http://www.cnblogs.com/zqzjs/p/6789274.html)
   - [你真的知道组件中的v-model吗？](http://www.cnblogs.com/zqzjs/p/6957310.html)
   - [Vuex给我们的.vue文件结构带来了这些变化](http://www.cnblogs.com/zqzjs/p/6561833.html)
+  - [Vue2的独立构建与运行时构建的差别](http://www.cnblogs.com/zqzjs/p/7989037.html)
 
 ## Express
   - [Express之托管静态文件](http://www.cnblogs.com/zqzjs/p/6219508.html)
