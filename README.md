@@ -24,7 +24,6 @@
   - [JavaScript权威设计--跨域,XMLHttpRequest(简要学习笔记十九)](http://www.cnblogs.com/zqzjs/p/4883955.html)
   - [JavaScript权威设计--事件冒泡，捕获，事件句柄，事件源，事件对象(简要学习笔记十八)](http://www.cnblogs.com/zqzjs/p/4878785.html)
   - [JavaScript权威设计--事件处理介绍(简要学习笔记十七)](http://www.cnblogs.com/zqzjs/p/4873244.html)
-  - [多个Img标签之间的间隙处理方法](http://www.cnblogs.com/zqzjs/p/4868325.html)
   - [JavaScript权威设计--CSS(简要学习笔记十六)](http://www.cnblogs.com/zqzjs/p/4865417.html)
   - [JavaScript权威设计--JavaScript脚本化文档Document与CSS(简要学习笔记十五)](http://www.cnblogs.com/zqzjs/p/4847491.html)
   - [JavaScript权威设计--Window对象之Iframe(简要学习笔记十四)](http://www.cnblogs.com/zqzjs/p/4841594.html)
@@ -51,8 +50,9 @@
   - [JavaScript语言精粹之Function,类，this，对象](http://www.cnblogs.com/zqzjs/p/4442662.html)
   - [JavaScript语言精粹之对象](http://www.cnblogs.com/zqzjs/p/4418174.html)
   - [JavaScript语言精粹之执行环境及作用域，this](http://www.cnblogs.com/zqzjs/p/5060917.html)
+
 ### CSS权威指南
-  - [CSS权威指南之基本视觉格式化（水平与垂直](http://www.cnblogs.com/zqzjs/p/5046582.html)
+  - [CSS权威指南之基本视觉格式化（水平与垂直）](http://www.cnblogs.com/zqzjs/p/5046582.html)
   - [CSS权威指南之css声明，伪类，文本处理](http://www.cnblogs.com/zqzjs/p/5030885.html)
   - [CSS权威指南之定位之绝对与相对](http://www.cnblogs.com/zqzjs/p/5094899.html)
 
@@ -64,8 +64,8 @@
   - [JavaScript高级程序设计--表单脚本](http://www.cnblogs.com/zqzjs/p/4975841.html)
 
 ### 高性能JavaScript
+ - [高性能JavaScript--加载和执行(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4802908.html)
   - [高性能JavaScript--数据存储(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4915678.html)
-  - [高性能JavaScript--加载和执行(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4802908.html)
   - [高性能JavaScript--快速响应的用户界面(简要学习笔记三)](http://www.cnblogs.com/zqzjs/p/4975814.html)
 
 ### 锋利的jQuery
@@ -122,6 +122,7 @@
   - [优雅的处理破裂图像](http://www.cnblogs.com/zqzjs/p/6380318.html)
   - [CSS中易忽略的点](http://www.cnblogs.com/zqzjs/p/6011139.html)
   - [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
+  - [多个Img标签之间的间隙处理方法](http://www.cnblogs.com/zqzjs/p/4868325.html)
 
 ### JavaScript
   - [Promise原理与实现探究的一种思路](http://www.cnblogs.com/zqzjs/p/8017497.html)
