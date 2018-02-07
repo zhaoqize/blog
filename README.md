@@ -1,11 +1,25 @@
-<img src="http://ojlxao0wn.bkt.clouddn.com/WX20180207-120940@2x.png"/>
+<img src="./img/WX20180207-120940@2x.png>
 
-# 2018
+## 2018
+- [Content-Security-Policy的理解](https://github.com/zhaoqize/blog/issues/1)
+- [换一种方式理解观察者模式](https://github.com/zhaoqize/blog/issues/3)
+- [初识createDocumentFragment](https://github.com/zhaoqize/blog/issues/4)
+- [Vue2的独立构建与运行时构建的差别](https://github.com/zhaoqize/blog/issues/5)
+- [JavaScript的异步性和队列问题](https://github.com/zhaoqize/blog/issues/6)
+- [Promise原理与实现探究的一种思路](https://github.com/zhaoqize/blog/issues/7)
+- [CommonJS模块化规范和ES6模块化规范](https://github.com/zhaoqize/blog/issues/8)
+- [scrollIntoView引发的思考](https://github.com/zhaoqize/blog/issues/9)
+- [[翻译] tween.js 中文使用指南](https://github.com/zhaoqize/blog/issues/10)[首翻]
+- [对手淘移动开发适配的实例思考](https://github.com/zhaoqize/blog/issues/11)
+- [Vue中容易被忽略的知识点](https://github.com/zhaoqize/blog/issues/12)
+- [[翻译] SuperAgent 中文使用指南(v3.8.0)](https://github.com/zhaoqize/blog/issues/13)
+- [我理解的函数柯里化](https://github.com/zhaoqize/blog/issues/14)
+- ["所谓"的前端算法](https://github.com/zhaoqize/blog/issues/18)
+- [JavaScript中的加号运算符趣事](https://github.com/zhaoqize/blog/issues/19)
 
+## 2016～2017
 
-# 2016～2017
-
-## JavaScript权威设计
+### JavaScript权威设计
   - [JavaScript权威设计--jQuery,Ajax.animate,SVG(简要学习笔记二十)[完结篇]](http://www.cnblogs.com/zqzjs/p/4896114.html)
   - [JavaScript权威设计--跨域,XMLHttpRequest(简要学习笔记十九)](http://www.cnblogs.com/zqzjs/p/4883955.html)
   - [JavaScript权威设计--事件冒泡，捕获，事件句柄，事件源，事件对象(简要学习笔记十八)](http://www.cnblogs.com/zqzjs/p/4878785.html)
@@ -28,40 +42,40 @@
   - [JavaScript权威设计--JavaScript词法结构(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4792572.html)
   - [JavaScript权威设计--JavaScript语言核心(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4792555.html)
 
-## HTML5权威指南
+### HTML5权威指南
   - [HTML5权威指南--Web Storage,本地数据库,本地缓存API,Web Sockets API,Geolocation API(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4855922.html)
   - [HTML5权威指南--标签新变化,文件API,拖放API(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4855874.html)
 
-## JavaScript语言精粹
+### JavaScript语言精粹
   - [JavaScript语言精粹之replace()与正则](http://www.cnblogs.com/zqzjs/p/4457017.html)
   - [JavaScript语言精粹之Function,类，this，对象](http://www.cnblogs.com/zqzjs/p/4442662.html)
   - [JavaScript语言精粹之对象](http://www.cnblogs.com/zqzjs/p/4418174.html)
   - [JavaScript语言精粹之执行环境及作用域，this](http://www.cnblogs.com/zqzjs/p/5060917.html)
-## CSS权威指南
+### CSS权威指南
   - [CSS权威指南之基本视觉格式化（水平与垂直](http://www.cnblogs.com/zqzjs/p/5046582.html)
   - [CSS权威指南之css声明，伪类，文本处理](http://www.cnblogs.com/zqzjs/p/5030885.html)
   - [CSS权威指南之定位之绝对与相对](http://www.cnblogs.com/zqzjs/p/5094899.html)
 
-## HTTP权威指南
+### HTTP权威指南
   - [HTTP权威指南-基础知识](http://www.cnblogs.com/zqzjs/p/5011325.html)
 
-## JavaScript高级程序设计系列
+### JavaScript高级程序设计系列
   - [JavaScript高级程序设计--对象，数组（栈方法，队列方法，重排序方法，迭代方法](http://www.cnblogs.com/zqzjs/p/5008628.html)
   - [JavaScript高级程序设计--表单脚本](http://www.cnblogs.com/zqzjs/p/4975841.html)
 
-## 高性能JavaScript
+### 高性能JavaScript
   - [高性能JavaScript--数据存储(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4915678.html)
   - [高性能JavaScript--加载和执行(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4802908.html)
   - [高性能JavaScript--快速响应的用户界面(简要学习笔记三)](http://www.cnblogs.com/zqzjs/p/4975814.html)
 
-## 锋利的jQuery
+### 锋利的jQuery
   - [锋利的jQuery--jQuery与DOM对象的互相转换，DOM的三种操作(读书笔记一)](http://www.cnblogs.com/zqzjs/p/4918841.html)
   - [锋利的jQuery--jQuery事件，动画(读书笔记二)](http://www.cnblogs.com/zqzjs/p/4934543.html)
   - [锋利的jQuery--表单等(读书笔记三)](http://www.cnblogs.com/zqzjs/p/4934554.html)
   - [锋利的jQuery--Ajax(读书笔记四)](http://www.cnblogs.com/zqzjs/p/4943601.html)
   - [锋利的jQuery--编写jQuery插件(读书笔记五)[完结篇]](http://www.cnblogs.com/zqzjs/p/4943617.html)
   
-## Nodejs
+### Nodejs
   - [NodeJs之数据库异常处理](http://www.cnblogs.com/zqzjs/p/6251899.html)
   - [NodeJs之fs的读写删移监](http://www.cnblogs.com/zqzjs/p/6279229.html)
   - [NodeJs之http](http://www.cnblogs.com/zqzjs/p/6224174.html)
@@ -80,14 +94,14 @@
   - [图片上传之FileAPI与NodeJs](http://www.cnblogs.com/zqzjs/p/6252772.html)
   - [NodeJs之调试](http://www.cnblogs.com/zqzjs/p/6155786.html)
   
-## Hybird
+### Hybird
   - [为什么可以通过URL来调起APP - URL Scheme和Intent](http://www.cnblogs.com/zqzjs/p/7505265.html)
   - [H5页面中尝试调起APP](http://www.cnblogs.com/zqzjs/p/7504236.html)
   - [Weex的原生开发](http://www.cnblogs.com/zqzjs/p/7365726.html)
   - [第一次安卓运行踩坑](http://www.cnblogs.com/zqzjs/p/7258482.html)
   - [Android Studio集成到Genymotion模拟器](http://www.cnblogs.com/zqzjs/p/7411361.html)
 
-## Vue
+### Vue
   - [Vue2.x中的父子组件相互通信](http://www.cnblogs.com/zqzjs/p/6789232.html)
   - [Vue2.x中的父组件数据传递至子组件](http://www.cnblogs.com/zqzjs/p/6789095.html)
   - [vue-router2.x使用入门](http://www.cnblogs.com/zqzjs/p/6789274.html)
@@ -95,21 +109,21 @@
   - [Vuex给我们的.vue文件结构带来了这些变化](http://www.cnblogs.com/zqzjs/p/6561833.html)
   - [Vue2的独立构建与运行时构建的差别](http://www.cnblogs.com/zqzjs/p/7989037.html)
 
-## HTML
+### HTML
   - [Web Components](http://www.cnblogs.com/zqzjs/p/7360664.html)
   - [History对象](http://www.cnblogs.com/zqzjs/p/6306993.html)
   - [谷歌YSlow准则](http://www.cnblogs.com/zqzjs/p/6275361.html)
   - [A标签href详解--记录八](http://www.cnblogs.com/zqzjs/p/4550182.html)
   - [A标签实现文件下载功能](http://www.cnblogs.com/zqzjs/p/4690731.html)
 
-## CSS
+### CSS
   - [牛逼的css3:动态过渡与图形变换](http://www.cnblogs.com/zqzjs/p/5347691.html)
   - [CSS的兼容性与BUG处理](http://www.cnblogs.com/zqzjs/p/6379489.html)
   - [优雅的处理破裂图像](http://www.cnblogs.com/zqzjs/p/6380318.html)
   - [CSS中易忽略的点](http://www.cnblogs.com/zqzjs/p/6011139.html)
   - [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
 
-## JavaScript
+### JavaScript
   - [Promise原理与实现探究的一种思路](http://www.cnblogs.com/zqzjs/p/8017497.html)
   - [实例操作JSONP原理](http://www.cnblogs.com/zqzjs/p/5898246.html)
   - [前端开发中SEO的十二条总结](http://www.cnblogs.com/zqzjs/p/6007840.html)
@@ -151,44 +165,44 @@
   - [Web中的XHRHttpRequest](http://www.cnblogs.com/zqzjs/p/4912623.html)
   - [JavaScript原生的节点操作](http://www.cnblogs.com/zqzjs/p/6290762.html)
 
-## Web安全
+### Web安全
   - [Web安全之XSS(Cross Site Scripting)深入理解](http://www.cnblogs.com/zqzjs/p/6194974.html)
   - [事件的截获](http://www.cnblogs.com/zqzjs/p/5916978.html)
   - [页面嵌入dom与被嵌入iframe的攻防](http://www.cnblogs.com/zqzjs/p/5908456.html)
   - [document.referrer之隐藏来源](http://www.cnblogs.com/zqzjs/p/6244908.html)
 
-## Express
+### Express
   - [Express之托管静态文件](http://www.cnblogs.com/zqzjs/p/6219508.html)
   - [Express之get,pos请求参数的获取](http://www.cnblogs.com/zqzjs/p/6347086.html)
   - [Express与NodeJs创建服务器的两种方法](http://www.cnblogs.com/zqzjs/p/6369812.html)
 
-## Webpack
+### Webpack
   - [webpack2.x抽取css](http://www.cnblogs.com/zqzjs/p/6828090.html)
   - [基于webpack2.x的vue2.x的多页面站点](http://www.cnblogs.com/zqzjs/p/6834843.html)
   - [Webpack的使用](http://www.cnblogs.com/zqzjs/p/5779219.html)
   
-## Handlebars
+### Handlebars
   - [Handlebars模板引擎之高阶](http://www.cnblogs.com/zqzjs/p/6233479.html)
   - [Handlebars模板引擎之进阶](http://www.cnblogs.com/zqzjs/p/6233444.html)
   - [Handlebars模板引擎之上手](http://www.cnblogs.com/zqzjs/p/6233153.html)
 
-## Fis3
+### Fis3
   - [Fis3前端工程化之项目实战](http://www.cnblogs.com/zqzjs/p/6245607.html)
   - [Fis3的前端工程化之路[三大特性篇之声明依赖]](http://www.cnblogs.com/zqzjs/p/6245307.html)
   - [Fis3的前端工程化之路[三大特性篇之资源定位]](http://www.cnblogs.com/zqzjs/p/6245164.html)
   - [Fis3的前端工程化之路[三大特性篇之内容嵌入]](http://www.cnblogs.com/zqzjs/p/6099857.html)
   - [Fis3的前端模块化之路[基础篇]](http://www.cnblogs.com/zqzjs/p/6099566.html)
 
-## React
+### React
   - [React的使用与JSX的转换](http://www.cnblogs.com/zqzjs/p/5551114.html)
   - [React在开发中的常用结构以及功能详解](http://www.cnblogs.com/zqzjs/p/5656385.html)
 
-## Electron
+### Electron
   - [Electron使用与学习--(页面间的通信)](http://www.cnblogs.com/zqzjs/p/5558282.html)
   - [Electron使用与学习--(基本使用与菜单操作)](http://www.cnblogs.com/zqzjs/p/5544047.html)
   - [Node-Webkit打包](http://www.cnblogs.com/zqzjs/p/5513430.html)
 
-## 一些Tips
+### 一些Tips
   - [gulp-prompt入个了门](http://www.cnblogs.com/zqzjs/p/7766267.html)
   - [document.documentElement.clientHeight 与 document.body.clientHeight](http://www.cnblogs.com/zqzjs/p/5839118.html)
   - [window.print控制打印样式](http://www.cnblogs.com/zqzjs/p/6807887.html)
@@ -215,11 +229,11 @@
   - [jQuery UI与jQuery easyUI的冲突解决办法](http://www.cnblogs.com/zqzjs/p/4656844.html)
   - [$(document).ready() 与window.onload的区别](http://www.cnblogs.com/zqzjs/p/4656832.html)
 
-## Grunt
+### Grunt
   - [Grunt(页面静态引入的文件地址的改变探究)-V2.0](http://www.cnblogs.com/zqzjs/p/5331098.html)
   - [Grunt基本使用-V1.0](http://www.cnblogs.com/zqzjs/p/5323623.html)
 
-## Git
+### Git
   - [Git配合Tag的代码回滚](http://www.cnblogs.com/zqzjs/p/6812214.html)
   - [大话git中的撤销操作](http://www.cnblogs.com/zqzjs/p/7809471.html)
   - [Git(进击学习:远程仓库操作)-V3.0](http://www.cnblogs.com/zqzjs/p/5349578.html)
@@ -227,7 +241,7 @@
   - [git推送文件至github缺少README文件](http://www.cnblogs.com/zqzjs/p/5296399.html)
   - [Git的基本操作](http://www.cnblogs.com/zqzjs/p/6307252.html)
 
-## 工具
+### 工具
   - [FTP的搭建与虚拟目录作用<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4732030.html)
   - [数据库知识储备-（一）](http://www.cnblogs.com/zqzjs/p/4639435.html)
   - [Cmder--Windows下命令行利器](http://www.cnblogs.com/zqzjs/p/6188605.html)
@@ -240,7 +254,7 @@
   - [Mocha的单元测试实战](http://www.cnblogs.com/zqzjs/p/6255849.html)
   - [Charles从入门到放弃](http://www.cnblogs.com/zqzjs/p/7763406.html)
 
-## 其他
+### 其他
   - [CentOS下使用NVM](http://www.cnblogs.com/zqzjs/p/6214979.html)
   - [CentOS安装SVN](http://www.cnblogs.com/zqzjs/p/6215329.html)
   - [Ubuntu下使用nvm](http://www.cnblogs.com/zqzjs/p/6240565.html)
@@ -248,7 +262,7 @@
   - [Travis CI用来持续集成你的项目](http://www.cnblogs.com/zqzjs/p/6119750.html)
   - [Jade模板引擎让你飞](http://www.cnblogs.com/zqzjs/p/6057254.html)
 
-## .Net
+### .Net
   - [VS2010编写WebService与在IIS的发布<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4705994.html)
   - [VS2010开发工具使用技巧<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4715068.html)
   - [VS2010中项目发布遇到的应用程序池问题(无法识别的属性“targetFramework”)](http://www.cnblogs.com/zqzjs/p/4768777.html)
