@@ -9,7 +9,7 @@
 - [Promise原理与实现探究的一种思路](https://github.com/zhaoqize/blog/issues/7)
 - [CommonJS模块化规范和ES6模块化规范](https://github.com/zhaoqize/blog/issues/8)
 - [scrollIntoView引发的思考](https://github.com/zhaoqize/blog/issues/9)
-- [[翻译] tween.js 中文使用指南](https://github.com/zhaoqize/blog/issues/10)[首翻]
+- [[翻译] tween.js 中文使用指南](https://github.com/zhaoqize/blog/issues/10)
 - [对手淘移动开发适配的实例思考](https://github.com/zhaoqize/blog/issues/11)
 - [Vue中容易被忽略的知识点](https://github.com/zhaoqize/blog/issues/12)
 - [[翻译] SuperAgent 中文使用指南(v3.8.0)](https://github.com/zhaoqize/blog/issues/13)
