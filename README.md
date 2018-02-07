@@ -1,5 +1,11 @@
 <img src="./img/WX20180207-120940@2x.png">
 
+> - [技术博客(blog)](https://github.com/zhaoqize/blog)
+> - [前端指南(FE-Guide)](https://github.com/zhaoqize/FE-Guide)
+> - [一点感悟(Life)](https://github.com/zhaoqize/Life)
+
+如果觉得我的文章能给您一点启发,不妨 star✨,想要订阅请 watch👀.
+
 ## 2018
 - [Content-Security-Policy的理解](https://github.com/zhaoqize/blog/issues/1)
 - [换一种方式理解观察者模式](https://github.com/zhaoqize/blog/issues/3)
@@ -59,7 +65,7 @@
 ### HTTP权威指南
   - [HTTP权威指南-基础知识](http://www.cnblogs.com/zqzjs/p/5011325.html)
 
-### JavaScript高级程序设计系列
+### JavaScript高级程序设计
   - [JavaScript高级程序设计--对象，数组（栈方法，队列方法，重排序方法，迭代方法](http://www.cnblogs.com/zqzjs/p/5008628.html)
   - [JavaScript高级程序设计--表单脚本](http://www.cnblogs.com/zqzjs/p/4975841.html)
 
