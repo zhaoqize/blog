@@ -1,4 +1,4 @@
-<img src="./img/WX20180207-120940@2x.png>
+<img src="./img/WX20180207-120940@2x.png">
 
 ## 2018
 - [Content-Security-Policy的理解](https://github.com/zhaoqize/blog/issues/1)
