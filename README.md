@@ -1,5 +1,7 @@
 <img src="./img/WX20180207-120940@2x.png">
 
+[![Github](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-32.1%2BK%20%E9%98%85%E8%AF%BB-blue.svg?style=for-the-badge))]()
+
 > - [技术博客(blog)](https://github.com/zhaoqize/blog)
 > - [前端指南(FE-Guide)](https://github.com/zhaoqize/FE-Guide)
 > - [一点感悟(Life)](https://github.com/zhaoqize/Life)
@@ -71,8 +73,8 @@
 
 ### 高性能JavaScript
  - [高性能JavaScript--加载和执行(简要学习笔记一)](http://www.cnblogs.com/zqzjs/p/4802908.html)
-  - [高性能JavaScript--数据存储(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4915678.html)
-  - [高性能JavaScript--快速响应的用户界面(简要学习笔记三)](http://www.cnblogs.com/zqzjs/p/4975814.html)
+ - [高性能JavaScript--数据存储(简要学习笔记二)](http://www.cnblogs.com/zqzjs/p/4915678.html)
+ - [高性能JavaScript--快速响应的用户界面(简要学习笔记三)](http://www.cnblogs.com/zqzjs/p/4975814.html)
 
 ### 锋利的jQuery
   - [锋利的jQuery--jQuery与DOM对象的互相转换，DOM的三种操作(读书笔记一)](http://www.cnblogs.com/zqzjs/p/4918841.html)
