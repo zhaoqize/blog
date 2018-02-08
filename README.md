@@ -2,9 +2,9 @@
 
 [![GitHub package version](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-32.1K%2B%20%E9%98%85%E8%AF%BB-blue.svg?style=for-the-badge)]()
 
-> - [技术博客(blog)](https://github.com/zhaoqize/blog)
-> - [前端指南(FE-Guide)](https://github.com/zhaoqize/FE-Guide)
-> - [一点感悟(Life)](https://github.com/zhaoqize/Life)
+> - [技术博客](https://github.com/zhaoqize/blog)
+> - [前端指南](https://github.com/zhaoqize/FE-Guide)
+> - [一点感悟](https://github.com/zhaoqize/Life)
 
 如果觉得我的文章能给您一点启发,不妨 star✨,想要订阅请 watch👀.
 
