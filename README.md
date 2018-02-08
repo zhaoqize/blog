@@ -1,6 +1,6 @@
 <img src="./img/WX20180207-120940@2x.png">
 
-[![Github](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-32.1%2BK%20%E9%98%85%E8%AF%BB-blue.svg?style=for-the-badge)]()
+[![GitHub package version](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-32.1K%2B%20%E9%98%85%E8%AF%BB-blue.svg?style=for-the-badge)]()
 
 > - [技术博客(blog)](https://github.com/zhaoqize/blog)
 > - [前端指南(FE-Guide)](https://github.com/zhaoqize/FE-Guide)
