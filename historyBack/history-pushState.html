@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>history-pushState</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,minimum-scale=1,user-scalable=0">
+    <style type="text/css">
+      button {
+          border: #0000;
+          background-color: #f90;
+      }
+      .com {
+        position: absolute ;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        background-color: #888589;
+      }
+    </style>
+  </head>
+  <body>
+    <button onclick="city()">
+        城市
+    </button><br>
+    <button onclick="calendar()">
+        日历
+    </button><br>
+    <button onclick="description()">
+        说明
+    </button>
+
+    <div id="city" class="com" style="display: none;">
+      模拟城市弹框层
+    </div>
+    <div id="calendar" class="com" style="display: none;">
+      模拟日历弹框层
+    </div>
+     <div id="description" class="com" style="display: none;">
+      模拟说明弹框层
+    </div>
+
+    <script type="text/javascript">
+    var cityNode = document.getElementById('city');
+    var calendarNode = document.getElementById('calendar');
+    var descriptionNode = document.getElementById('description');
+      function city() {
+        cityNode.style.display = 'block';
+        window.history.pushState({'id':'city'},'','#city')
+      }
+      function calendar() {
+        calendarNode.style.display = 'block';
+        window.history.pushState({'id':'calendar'},'','#calendar')
+      }
+      function description() {
+        descriptionNode.style.display = 'block';
+        window.history.pushState({'id':'description'},'','#description')
+      }
+      window.addEventListener('popstate', function(e){
+        // alert('state:' + e.state + ', historyLength:' + history.length);
+        if (e.state && e.state.id === 'city') {
+            history.replaceState('','','#');
+            cityNode.style.display = 'block';
+        } else if (e.state && e.state.id === 'calendar') {
+            history.replaceState('','','#');
+            calendarNode.style.display = 'block';
+        } else if (e.state && e.state.id === 'description') {
+            history.replaceState('','','#');
+            descriptionNode.style.display = 'block';
+        } else {
+            cityNode.style.display = 'none';
+            calendarNode.style.display = 'none';
+            descriptionNode.style.display = 'none';
+        }
+      })
+    </script>
+  </body>
+</html>
