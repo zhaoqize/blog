@@ -6,7 +6,7 @@
 > - [前端指南](https://github.com/zhaoqize/FE-Guide)
 > - [一点感悟](https://github.com/zhaoqize/Life)
 
-如果觉得我的文章能给您一点启发,不妨 star✨,想要订阅请 watch👀.
+**如果觉得我的文章能给您一点启发,不妨 star✨,想要订阅请 watch👀**
 
 ## 2018
 - [Content-Security-Policy的理解](https://github.com/zhaoqize/blog/issues/1)
