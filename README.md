@@ -1,4 +1,4 @@
-<img src="./img/WX20180207-120940@2x.png">
+<img src="./img/12.png">
 
 [![GitHub package version](https://img.shields.io/badge/%E6%96%87%E7%AB%A0-32.1K%2B%20%E9%98%85%E8%AF%BB-blue.svg?style=for-the-badge)]()
 
