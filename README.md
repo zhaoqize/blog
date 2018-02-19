@@ -118,22 +118,12 @@
   - [Vuex给我们的.vue文件结构带来了这些变化](http://www.cnblogs.com/zqzjs/p/6561833.html)
   - [Vue2的独立构建与运行时构建的差别](http://www.cnblogs.com/zqzjs/p/7989037.html)
 
-### HTML
-  - [Web Components](http://www.cnblogs.com/zqzjs/p/7360664.html)
+### JavaScript
   - [History对象](http://www.cnblogs.com/zqzjs/p/6306993.html)
   - [谷歌YSlow准则](http://www.cnblogs.com/zqzjs/p/6275361.html)
   - [A标签href详解--记录八](http://www.cnblogs.com/zqzjs/p/4550182.html)
   - [A标签实现文件下载功能](http://www.cnblogs.com/zqzjs/p/4690731.html)
-
-### CSS
-  - [牛逼的css3:动态过渡与图形变换](http://www.cnblogs.com/zqzjs/p/5347691.html)
-  - [CSS的兼容性与BUG处理](http://www.cnblogs.com/zqzjs/p/6379489.html)
-  - [优雅的处理破裂图像](http://www.cnblogs.com/zqzjs/p/6380318.html)
-  - [CSS中易忽略的点](http://www.cnblogs.com/zqzjs/p/6011139.html)
-  - [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
-  - [多个Img标签之间的间隙处理方法](http://www.cnblogs.com/zqzjs/p/4868325.html)
-
-### JavaScript
+  - [WebComponents](http://www.cnblogs.com/zqzjs/p/7360664.html)
   - [Promise原理与实现探究的一种思路](http://www.cnblogs.com/zqzjs/p/8017497.html)
   - [实例操作JSONP原理](http://www.cnblogs.com/zqzjs/p/5898246.html)
   - [前端开发中SEO的十二条总结](http://www.cnblogs.com/zqzjs/p/6007840.html)
@@ -175,6 +165,14 @@
   - [Web中的XHRHttpRequest](http://www.cnblogs.com/zqzjs/p/4912623.html)
   - [JavaScript原生的节点操作](http://www.cnblogs.com/zqzjs/p/6290762.html)
 
+### CSS
+  - [牛逼的css3:动态过渡与图形变换](http://www.cnblogs.com/zqzjs/p/5347691.html)
+  - [CSS的兼容性与BUG处理](http://www.cnblogs.com/zqzjs/p/6379489.html)
+  - [优雅的处理破裂图像](http://www.cnblogs.com/zqzjs/p/6380318.html)
+  - [CSS中易忽略的点](http://www.cnblogs.com/zqzjs/p/6011139.html)
+  - [CSS选择器 <  ~ +](http://www.cnblogs.com/zqzjs/p/4676138.html)
+  - [多个Img标签之间的间隙处理方法](http://www.cnblogs.com/zqzjs/p/4868325.html)
+
 ### Web安全
   - [Web安全之XSS(Cross Site Scripting)深入理解](http://www.cnblogs.com/zqzjs/p/6194974.html)
   - [事件的截获](http://www.cnblogs.com/zqzjs/p/5916978.html)
@@ -212,7 +210,19 @@
   - [Electron使用与学习--(基本使用与菜单操作)](http://www.cnblogs.com/zqzjs/p/5544047.html)
   - [Node-Webkit打包](http://www.cnblogs.com/zqzjs/p/5513430.html)
 
-### 一些Tips
+### Grunt
+  - [Grunt(页面静态引入的文件地址的改变探究)-V2.0](http://www.cnblogs.com/zqzjs/p/5331098.html)
+  - [Grunt基本使用-V1.0](http://www.cnblogs.com/zqzjs/p/5323623.html)
+
+### Git
+  - [Git配合Tag的代码回滚](http://www.cnblogs.com/zqzjs/p/6812214.html)
+  - [大话git中的撤销操作](http://www.cnblogs.com/zqzjs/p/7809471.html)
+  - [Git(进击学习:远程仓库操作)-V3.0](http://www.cnblogs.com/zqzjs/p/5349578.html)
+  - [Git(远程仓库:git@oschina)-V2.0](http://www.cnblogs.com/zqzjs/p/5340943.html)
+  - [git推送文件至github缺少README文件](http://www.cnblogs.com/zqzjs/p/5296399.html)
+  - [Git的基本操作](http://www.cnblogs.com/zqzjs/p/6307252.html)
+
+### Tip
   - [gulp-prompt入个了门](http://www.cnblogs.com/zqzjs/p/7766267.html)
   - [document.documentElement.clientHeight 与 document.body.clientHeight](http://www.cnblogs.com/zqzjs/p/5839118.html)
   - [window.print控制打印样式](http://www.cnblogs.com/zqzjs/p/6807887.html)
@@ -238,19 +248,7 @@
   - [页面width与height使用百分比来划分不起作用解决办法--记录六](http://www.cnblogs.com/zqzjs/p/4550195.html)
   - [jQuery UI与jQuery easyUI的冲突解决办法](http://www.cnblogs.com/zqzjs/p/4656844.html)
   - [$(document).ready() 与window.onload的区别](http://www.cnblogs.com/zqzjs/p/4656832.html)
-
-### Grunt
-  - [Grunt(页面静态引入的文件地址的改变探究)-V2.0](http://www.cnblogs.com/zqzjs/p/5331098.html)
-  - [Grunt基本使用-V1.0](http://www.cnblogs.com/zqzjs/p/5323623.html)
-
-### Git
-  - [Git配合Tag的代码回滚](http://www.cnblogs.com/zqzjs/p/6812214.html)
-  - [大话git中的撤销操作](http://www.cnblogs.com/zqzjs/p/7809471.html)
-  - [Git(进击学习:远程仓库操作)-V3.0](http://www.cnblogs.com/zqzjs/p/5349578.html)
-  - [Git(远程仓库:git@oschina)-V2.0](http://www.cnblogs.com/zqzjs/p/5340943.html)
-  - [git推送文件至github缺少README文件](http://www.cnblogs.com/zqzjs/p/5296399.html)
-  - [Git的基本操作](http://www.cnblogs.com/zqzjs/p/6307252.html)
-
+  
 ### 工具
   - [FTP的搭建与虚拟目录作用<之简单讲解>](http://www.cnblogs.com/zqzjs/p/4732030.html)
   - [数据库知识储备-（一）](http://www.cnblogs.com/zqzjs/p/4639435.html)
