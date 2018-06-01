@@ -1,0 +1,150 @@
+{
+  "$id": "http://example.com/example.json",
+  "type": "object",
+  "definitions": {},
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "properties": {
+    "success": {
+      "$id": "/properties/success",
+      "type": "boolean",
+      "title": "The Success Schema ",
+      "default": false,
+      "examples": [
+        true
+      ]
+    },
+    "data": {
+      "$id": "/properties/data",
+      "type": "array",
+      "items": {
+        "$id": "/properties/data/items",
+        "type": "object",
+        "properties": {
+          "id": {
+            "$id": "/properties/data/items/properties/id",
+            "type": "string",
+            "title": "The Id Schema ",
+            "default": "",
+            "examples": [
+              "5ae140407b0e8dc508cca7cc"
+            ]
+          },
+          "author_id": {
+            "$id": "/properties/data/items/properties/author_id",
+            "type": "string",
+            "title": "The Author_id Schema ",
+            "default": "",
+            "examples": [
+              "573ab7ba542374db1db0a436"
+            ]
+          },
+          "tab": {
+            "$id": "/properties/data/items/properties/tab",
+            "type": "string",
+            "title": "The Tab Schema ",
+            "default": "",
+            "examples": [
+              "share"
+            ]
+          },
+          "content": {
+            "$id": "/properties/data/items/properties/content",
+            "type": "string",
+            "title": "The Content Schema ",
+            "default": "",
+            "examples": [
+              "xxx"
+            ]
+          },
+          "title": {
+            "$id": "/properties/data/items/properties/title",
+            "type": "string",
+            "title": "The Title Schema ",
+            "default": "",
+            "examples": [
+              "【NODE PARTY】【上海】【6月9日 13:30】报名&答疑帖"
+            ]
+          },
+          "last_reply_at": {
+            "$id": "/properties/data/items/properties/last_reply_at",
+            "type": "string",
+            "title": "The Last_reply_at Schema ",
+            "default": "",
+            "examples": [
+              "2018-06-01T03:01:08.368Z"
+            ]
+          },
+          "good": {
+            "$id": "/properties/data/items/properties/good",
+            "type": "boolean",
+            "title": "The Good Schema ",
+            "default": false,
+            "examples": [
+              false
+            ]
+          },
+          "top": {
+            "$id": "/properties/data/items/properties/top",
+            "type": "boolean",
+            "title": "The Top Schema ",
+            "default": false,
+            "examples": [
+              true
+            ]
+          },
+          "reply_count": {
+            "$id": "/properties/data/items/properties/reply_count",
+            "type": "integer",
+            "title": "The Reply_count Schema ",
+            "default": 0,
+            "examples": [
+              228
+            ]
+          },
+          "visit_count": {
+            "$id": "/properties/data/items/properties/visit_count",
+            "type": "integer",
+            "title": "The Visit_count Schema ",
+            "default": 0,
+            "examples": [
+              8080
+            ]
+          },
+          "create_at": {
+            "$id": "/properties/data/items/properties/create_at",
+            "type": "string",
+            "title": "The Create_at Schema ",
+            "default": "",
+            "examples": [
+              "2018-04-26T02:58:08.067Z"
+            ]
+          },
+          "author": {
+            "$id": "/properties/data/items/properties/author",
+            "type": "object",
+            "properties": {
+              "loginname": {
+                "$id": "/properties/data/items/properties/author/properties/loginname",
+                "type": "string",
+                "title": "The Loginname Schema ",
+                "default": "",
+                "examples": [
+                  "aojiaotage"
+                ]
+              },
+              "avatar_url": {
+                "$id": "/properties/data/items/properties/author/properties/avatar_url",
+                "type": "string",
+                "title": "The Avatar_url Schema ",
+                "default": "",
+                "examples": [
+                  "https://avatars3.githubusercontent.com/u/8339316?v=4&s=120"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "schema",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ajv": "^6.4.0",
+    "axios": "^0.18.0",
+    "chalk": "^2.4.1"
+  }
+}
