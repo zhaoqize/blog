@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>index</title>
+</head>
+<body>
+    
+</body>
+<script src="https://unpkg.com/source-map@0.7.3/dist/source-map.js"></script>
+<script>
+sourceMap.SourceMapConsumer.initialize({
+  "lib/mappings.wasm": "https://example.com/source-map/lib/mappings.wasm"
+});
+</script>
+<script>
+window.onerror = function(message, source, lineno, colno, error) {
+    debugger
+    // fetch('http://s0.meituan.net/bs/tempfs/file/zhaoqize/hello.min.js.map')
+    // .then(response => response.json())
+    // .then(async (data) => {
+    //     const consumer = await new sourceMap.SourceMapConsumer(data)
+    //     let originPos = consumer.originalPositionFor({
+    //         line: lineno,
+    //         column: lineno
+    //     });
+    //     console.log(originPos)
+    // })
+}
+
+// smc = new sourceMap.SourceMapConsumer('')
+</script>
+<script src="./hello.min.js"></script>
+</html>
